@@ -18,7 +18,7 @@ The jar is used in the Apigee gateway as a Java Callout Policy. The policy is us
 
 ### Before Install
 
-Two of the Apigee dependency jar files not available in any
+Two of the Apigee dependency jar files are not available in any
 public repo and it's added in the repo. You need to install them manually in your local .m2 directory in order to build successfully.
 
 ```
